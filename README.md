@@ -2,7 +2,7 @@
 
 A 3D browser game built with React, Three.js, and Tailwind. Deployable to Vercel.
 
-## What's in here
+## What's. in here
 
 - `src/App.jsx` — the game itself
 - `src/storageShim.js` — replaces the Claude-artifact `window.storage` API with
